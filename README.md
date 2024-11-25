@@ -21,19 +21,25 @@
 # Sections :bookmark:
 
 - HERO SECTION
-![](./public/image/screen.png)
+![](./public/image/hero.png)
 
 - ABOUT ME
+![](./public/image/about.png)
 
 - EXPERIENCE
+![](./public/image/experience.png)
 
 - SKILLS
+![](./public/image/skills.png)
 
 - PROJECTS
+![](./public/image/projects.png)
 
 - EDUCATION
+![](./public/image/education.png)
 
 - CONTACTS
+![](./public/image/contact.png)
 
 ---
 
@@ -58,7 +64,7 @@ run the development server:
 ```bash
 npm run dev
 ```
-Its better to use build server instead of server:
+Its better to use build server instead of dev server:
 ```bash
 npm run build
 then
