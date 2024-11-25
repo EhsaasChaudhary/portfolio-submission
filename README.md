@@ -11,7 +11,7 @@
 
 ---
 
-# Demo :movie_camera:
+# Demo and Screenshots :movie_camera:
 
 ## View live preview [here](ec-developer-portfolio.vercel.app).
 
@@ -76,7 +76,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ---
 
 # Usage :joystick:
-To Use emailjs
+## To Use emailjs
 
 Goto [emailjs.com](https://www.emailjs.com/) and create a new account for the mail sending. After setup `emailjs` account, Please create a new `.env` file.
 
