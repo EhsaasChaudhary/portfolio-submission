@@ -13,7 +13,7 @@
 
 # Demo and Screenshots :movie_camera:
 
-## View live preview [here](ec-developer-portfolio.vercel.app).
+## View live preview [here](https://ec-developer-portfolio.vercel.app).
 
 
 ---
